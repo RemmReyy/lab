@@ -25,5 +25,5 @@ install -m 755 %{_builddir}/lab-main/calc_files.sh %{buildroot}/usr/bin/calc_fil
 /usr/bin/calc_files
 
 %changelog
-* Tue December 12 2023 Bohdan Remeniuk <bogdansnou@gmail.com> - 1.0-1
+* Tue Dec 12 2023 Bohdan Remeniuk <bogdansnou@gmail.com> - 1.0-1
 - Initial build
